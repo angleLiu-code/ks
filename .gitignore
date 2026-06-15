@@ -1,0 +1,44 @@
+# Maven
+target/
+*.jar
+*.war
+*.rar
+*.zip
+.m2/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Build
+out/
+.gradle/
+build/
+
+# Node (if frontend included)
+node_modules/
+dist/
+
+# Database
+*.sql~
+*.bak
